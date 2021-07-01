@@ -1,0 +1,95 @@
+body{
+    background-color:#F9F9F9;
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    
+}
+.top{
+  text-align: center;
+  position: relative;
+  margin-left: 0px;
+  margin-bottom: 0px;
+}
+.h1{
+  font-family: 'Sacramento', cursive;
+}
+.text{
+  position: relative;
+  left: 800px;
+  bottom: 600px;
+}
+
+
+.middle-container{
+  text-align: center;
+  margin: 0px;
+  position: relative;
+  bottom: 300px;
+  font-family: 'Merriweather', serif;
+  
+}
+.image{
+  margin-top: 0cm;
+}
+.profile{
+  margin-top: 0px;
+  display: inline-block;
+  
+}
+hr{
+  color: #B5CDA3;
+  border-width: 8px;
+  border-style: dotted none none;
+  width: 15%;
+}
+
+p{
+  font-size: 25px;
+  color: #4AA96C;
+}
+h2{
+  color: #3A6351;
+  
+}
+.skillimg
+{
+  width: 250px;
+  height: 250px;
+}
+h3{
+  font-size: 35px;
+}
+.bottom-container{
+  position: relative;
+  bottom: 200px;
+  text-align: center;
+  width: 100%;
+  font-size: 40px;
+  background-color: #A7C4BC;
+}
+.myButton {
+	background-color:#77b55a;
+	border-radius:32px;
+	border:3px solid #4b8f29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:17px;
+	font-weight:bold;
+	font-style:italic;
+	padding:19px 42px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #5b8a3c;
+}
+.myButton:hover {
+	background-color:#72b352;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.trial{
+  position: relative;
+  top:20px;
+}
